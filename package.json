@@ -36,7 +36,7 @@
   "author": "JP Richardson <jprichardson@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "graceful-fs": "git@github.com:Piterden/node-graceful-fs.git",
+    "graceful-fs": "git://github.com/Piterden/node-graceful-fs.git",
     "jsonfile": "^4.0.0",
     "universalify": "^0.1.0"
   },
